@@ -2,6 +2,10 @@ netflix gpt
 
 create-react-app
 tailwind css config
+header 
+login form
+
+
 
 features:
   -loging signup
